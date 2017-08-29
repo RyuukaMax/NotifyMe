@@ -1,9 +1,9 @@
-package com.notifyme.ryuuka;
+package com.notifyme.ryuuka.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.test.ryuuka.notifyme.R;
+import com.notifyme.ryuuka.R;
 
 /**
  * Created by ryuuka on 29/08/2017.
