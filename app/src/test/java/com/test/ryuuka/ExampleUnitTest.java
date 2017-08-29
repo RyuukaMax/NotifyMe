@@ -1,4 +1,4 @@
-package com.example.ryuuka.notifyme;
+package com.test.ryuuka;
 
 import org.junit.Test;
 

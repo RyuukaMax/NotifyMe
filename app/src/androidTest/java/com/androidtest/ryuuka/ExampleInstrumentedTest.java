@@ -1,4 +1,4 @@
-package com.example.ryuuka.notifyme;
+package com.androidtest.ryuuka;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

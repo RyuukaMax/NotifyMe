@@ -1,4 +1,4 @@
-package com.example.ryuuka.notifyme.activity;
+package com.notifyme.ryuuka;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -30,7 +30,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.example.ryuuka.notifyme.R;
+import com.test.ryuuka.notifyme.R;
 
 import java.util.ArrayList;
 import java.util.List;
